@@ -2,11 +2,11 @@
 
 
 ### Outlines of the project
-1) Setup github repository and virtual environment.
+1) Set up github repository and virtual environment.
 2) Performing Exploratory Data Analysis for enhanced visual insights.
 3) Performed GridSearchCV() on various models to get the best version of every model.
 4) Compared models using various evaluation metrics and selected the best model for the test pipeline.
-5) Saving model as .pkl file.
+5) Saved model and preprocessor objects as .pkl files for seamless future integration.
 
 
 Dependencies used:
